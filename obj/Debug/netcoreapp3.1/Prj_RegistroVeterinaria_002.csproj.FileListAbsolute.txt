@@ -1,0 +1,113 @@
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.exe
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.deps.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.dev.json
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.dll
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csprojAssemblyReference.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.Manifest.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.xml
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfoInputs.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfo.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.input.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.output.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorCoreGenerate.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\DetalleRegistro.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroCaninos.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cache
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cs
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+C:\Users\AMTriana86\source\repos\Parciales\CreacionAutomatica\Sln_Andres_Triana_P12\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csproj.CopyComplete
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.exe
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.deps.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.dev.json
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.dll
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csprojAssemblyReference.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.Manifest.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.xml
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfoInputs.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfo.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.input.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.output.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorCoreGenerate.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\DetalleRegistro.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroCaninos.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cache
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cs
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+C:\Users\Laboratorio 3\Downloads\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csproj.CopyComplete
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\appsettings.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.exe
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.deps.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.runtimeconfig.dev.json
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.dll
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csprojAssemblyReference.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csproj.CoreCompileInputs.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.MvcApplicationPartsAssemblyInfo.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorAssemblyInfo.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfoInputs.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.AssemblyInfo.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.input.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.TagHelpers.output.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorCoreGenerate.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\DetalleRegistro.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroCaninos.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.RazorTargetAssemblyInfo.cs
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.Manifest.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\staticwebassets\Prj_RegistroVeterinaria_002.StaticWebAssets.xml
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.genruntimeconfig.cache
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.pdb
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.dll
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\bin\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.Views.pdb
+D:\oscar\Sln_Oscar_Salazar_P1\Prj_RegistroVeterinaria_002\obj\Debug\netcoreapp3.1\Prj_RegistroVeterinaria_002.csproj.CopyComplete

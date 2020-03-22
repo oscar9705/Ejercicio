@@ -1,0 +1,98 @@
+﻿@page
+@model RegistroCaninosModel
+@{
+    ViewData["Title"] = "RegistroCaninos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a Registro de Perros</h1>
+
+    <form class="text-center" method="post">
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <td><strong><img src="http://www.diarioveterinario.com/images/showid2/2228928?w=900" alt="" width="185" height="127" /></strong></td>
+                    <td class="display-2">Veterinaria OASG</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Identificacion de mascota</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.Id" class="form-control" />
+                        <b><span asp-validation-for="registro.Id"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Nombre de mascota</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.Nombre" class="form-control" />
+                        <b><span asp-validation-for="registro.Nombre"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Raza</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.Raza" class="form-control" />
+                        <b><span asp-validation-for="registro.Raza"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Edad</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.Edad" class="form-control" />
+                        <b><span asp-validation-for="registro.Edad"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Canino Macho</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.EsMacho" class="form-control" />
+                        <b><span asp-validation-for="registro.EsMacho"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Nombre del propietario</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.NombrePropietario" class="form-control" />
+                        <b><span asp-validation-for="registro.NombrePropietario"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Cedula de propietario</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.CcPropietario" class="form-control" />
+                        <b><span asp-validation-for="registro.CcPropietario"></span></b>
+                    </td>
+                <tr>
+                <tr>
+                    <td style="text-align: right">
+                        <label class="control-label">Email del propietario</label>
+                    </td>
+                    <td style="text-align: left">
+                        <input asp-for="registro.EmailPropietario" class="form-control" />
+                        <b><span asp-validation-for="registro.EmailPropietario"></span></b>
+                    </td>
+                <tr>
+                   
+            </tbody>
+             
+
+        </table>
+        <input type="submit"value="Registrar" class="btn-lg" />
+    </form>
+</div>
